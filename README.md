@@ -1,6 +1,6 @@
-# LangChain ReAct Agent 企业 AIOps 智能运维系统 OpsPilot
+# LangChain ReAct Agent AIOps 智能运维系统
 
-基于 **LangChain + ReAct Agent + RAG + Tool Calling** 构建的企业级 AIOps 智能运维项目，面向运维知识问答、告警分析、日志辅助诊断、监控指标解读、服务拓扑分析与运行报告生成等场景。
+基于 **LangChain + ReAct Agent + RAG + Tool Calling** 构建的 AIOps 智能运维项目，面向运维知识问答、告警分析、日志辅助诊断、监控指标解读、服务拓扑分析与运行报告生成等场景。
 
 本项目不是通用聊天机器人，而是一个面向运维工作流设计的智能体系统。系统通过 Agent 统一调度 RAG 知识库、告警工具、指标工具、日志工具、拓扑工具和报告生成工具，支持对 `order-service`、`payment-service`、`inventory-service` 等业务服务进行自然语言分析。
 
